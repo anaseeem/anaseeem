@@ -21,10 +21,9 @@
 
 | Category | Stack & Tools |
 | :--- | :--- |
-| **Automation & Integration** | n8n, Webhooks, REST API Design, Redis Queues, Worker Processes |
-| **Backend & Databases** | Node.js, TypeScript, Go, NestJS, Fastify, PostgreSQL, MongoDB, Redis |
+| **Automation & Integration** | n8n, Webhooks, REST API Design, Redis Queues |
+| **Backend & Databases** | Node.js, TypeScript, NestJS, Fastify, PostgreSQL, MongoDB, Redis |
 | **Frontend & Mobile** | Next.js, React, Vue.js, React Native, Tailwind CSS, Shadcn UI |
-| **Tooling & Environment** | Linux (Ubuntu), Neovim, Docker, Git, Nx Monorepos, EAS Build |
 
 ---
 
